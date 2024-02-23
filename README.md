@@ -19,7 +19,7 @@ def Main():
     logpx = options.ViewPrint
     thco = options.ThreadCount
     # ----------------------- START ------------------------------ #
-    with open(filename) as f:
+    with open(EthRedCryptoMAGIC.py) as f:
         add = f.read().split()
     add = set(add)
     z = 0
